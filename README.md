@@ -1,6 +1,7 @@
 # **Bitcoin Scripting Assignment (CS 216-Introduction to blockchain)**
 
 ## Team Details
+Team name : Hashers
 
 **Team Members** **Details :**
 
